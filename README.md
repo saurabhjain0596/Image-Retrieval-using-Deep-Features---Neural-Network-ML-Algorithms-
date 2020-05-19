@@ -1,1 +1,1 @@
-# Image-Retrieval-using-Deep-Features---Neural-Network-ML-Algorithms-
+# Image-Retrieval-using-Deep-Features---Neural-Network-ML-Algorithms
